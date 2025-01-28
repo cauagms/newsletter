@@ -32,7 +32,6 @@ body {
 
 .nav {
     display: flex;
-    justify-content: flex-end;
     align-items: center;
     gap: 15px;
 }
@@ -48,10 +47,6 @@ body {
 }
 
 /* Main */
-main {
-    padding: 50px 20px;
-}
-
 .content {
     max-width: 50%;
 }
